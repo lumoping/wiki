@@ -1,3 +1,4 @@
+- [Math For Programmers](https://steve-yegge.blogspot.com/2006/03/math-for-programmers.html) #math
 - [Hacker News和AI论文](https://zeli.app/zh) #阅读
 - [书签收藏：摘要 & 全文索引](https://nekonull.me/posts/llm_x_bookmark/) #知识梳理
 
