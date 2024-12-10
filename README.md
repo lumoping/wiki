@@ -1,3 +1,4 @@
+- [看见概率论 - 通过交互式演示理解经典概率论定理](https://probability.visualized.fun/) #数学
 - [目录 | 系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/)
 - [音乐服务 | 音流](https://music.aqzscn.cn/docs/category/音乐服务)
 - [chezmoi ](https://chezmoi.io/) dotfile manager
