@@ -1,3 +1,4 @@
+- [Paxos算法详解](https://zhuanlan.zhihu.com/p/31780743) #八股
 - [面试官：了解分布式事务？讲讲你理解的2PC和3PC原理](https://zhuanlan.zhihu.com/p/91263461) #八股
 - [首页 - 八股精](https://www.bagujing.com/) #八股
 - [9. 垃圾回收器 | Golang  |《Go面试系列》| Go 技术论坛](https://learnku.com/docs/go-interviews/9-la-ji-hui-shou-qi/16576#712b6b) #八股
