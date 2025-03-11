@@ -1,3 +1,4 @@
+- [已入字节的大佬各厂三年Go面经](https://zhuanlan.zhihu.com/p/566599977) #八股
 - [面试官问我为啥B+树一般都不超过3层？3层B+树能存多少数据？redo log与binlog的两阶段提交？_b+树为什么三层-CSDN博客](https://blog.csdn.net/NoviceZ/article/details/126960942) #八股
 - [分布式一致性算法对比 - Raft VS Paxos](https://zhuanlan.zhihu.com/p/88290363) #八股
 - [系统设计入门 - 《system-design-primer 中文版-系统设计入门》 - 极客文档](https://geekdaxue.co/read/system-design-primer-zh_CN/README.md)
