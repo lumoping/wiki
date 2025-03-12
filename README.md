@@ -1,3 +1,4 @@
+- [酷壳文章列表](https://coolshell.org/articles/)
 - [Raft](https://thesecretlivesofdata.com/raft/) #八股
 - [Raft算法详解](https://zhuanlan.zhihu.com/p/32052223) #八股
 - [Paxos算法详解](https://zhuanlan.zhihu.com/p/31780743) #八股
