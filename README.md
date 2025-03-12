@@ -1,3 +1,4 @@
+- [关于 Redlock 的讨论 - CharyGao - 博客园](https://www.cnblogs.com/Chary/p/18699565) #八股
 - [酷壳文章列表](https://coolshell.org/articles/)
 - [Raft](https://thesecretlivesofdata.com/raft/) #八股
 - [Raft算法详解](https://zhuanlan.zhihu.com/p/32052223) #八股
