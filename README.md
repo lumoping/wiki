@@ -1,8 +1,6 @@
 - [《深入理解Java虚拟机》第2版挖的坑终于在第3版中被R大填平了](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505093&idx=1&sn=1d4214e04c2ed6d9381d38953958d057&source=41#wechat_redirect) #八股
 - [(35 封私信) 如何理解《深入理解java虚拟机》第二版中对String.intern()方法的讲解中所举的例子？ - 知乎](https://www.zhihu.com/question/51102308/answer/124441115) #八股
 - [【求锤得锤的故事】Redis锁从面试连环炮聊到神仙打架。](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505097&idx=1&sn=5c03cb769c4458350f4d4a321ad51f5a&source=41#wechat_redirect) #八股
-- [【求锤得锤的故事】Redis锁从面试连环炮聊到神仙打架。](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505097&idx=1&sn=5c03cb769c4458350f4d4a321ad51f5a&source=41#wechat_redirect) #八股
-- [关于 Redlock 的讨论 - CharyGao - 博客园](https://www.cnblogs.com/Chary/p/18699565) #八股
 - [酷壳文章列表](https://coolshell.org/articles/)
 - [Raft](https://thesecretlivesofdata.com/raft/) #八股
 - [Raft算法详解](https://zhuanlan.zhihu.com/p/32052223) #八股
