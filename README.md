@@ -1,4 +1,5 @@
 - [【求锤得锤的故事】Redis锁从面试连环炮聊到神仙打架。](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505097&idx=1&sn=5c03cb769c4458350f4d4a321ad51f5a&source=41#wechat_redirect) #八股
+- [【求锤得锤的故事】Redis锁从面试连环炮聊到神仙打架。](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505097&idx=1&sn=5c03cb769c4458350f4d4a321ad51f5a&source=41#wechat_redirect) #八股
 - [关于 Redlock 的讨论 - CharyGao - 博客园](https://www.cnblogs.com/Chary/p/18699565) #八股
 - [酷壳文章列表](https://coolshell.org/articles/)
 - [Raft](https://thesecretlivesofdata.com/raft/) #八股
