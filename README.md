@@ -1,3 +1,4 @@
+- [Raft](https://thesecretlivesofdata.com/raft/) #八股
 - [Raft算法详解](https://zhuanlan.zhihu.com/p/32052223) #八股
 - [Paxos算法详解](https://zhuanlan.zhihu.com/p/31780743) #八股
 - [面试官：了解分布式事务？讲讲你理解的2PC和3PC原理](https://zhuanlan.zhihu.com/p/91263461) #八股
