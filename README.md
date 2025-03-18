@@ -1,3 +1,4 @@
+- [为了拿捏 Redis 数据结构，我画了 40 张图（完整版） - 小林coding - 博客园](https://www.cnblogs.com/xiaolincoding/p/15628854.html) #八股
 - [【Java】生产者消费者模式的实现_创建一个“producerandconsumer”的java程序，实现经典生产者与消费者问题，-CSDN博客](https://blog.csdn.net/u010983881/article/details/78554671) #八股
 - [实战Go内存泄露](https://segmentfault.com/a/1190000019222661) #八股
 - [《深入理解Java虚拟机》第2版挖的坑终于在第3版中被R大填平了](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505093&idx=1&sn=1d4214e04c2ed6d9381d38953958d057&source=41#wechat_redirect) #八股
