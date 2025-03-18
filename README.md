@@ -1,3 +1,4 @@
+- [【Java】生产者消费者模式的实现_创建一个“producerandconsumer”的java程序，实现经典生产者与消费者问题，-CSDN博客](https://blog.csdn.net/u010983881/article/details/78554671) #八股
 - [实战Go内存泄露](https://segmentfault.com/a/1190000019222661) #八股
 - [《深入理解Java虚拟机》第2版挖的坑终于在第3版中被R大填平了](https://mp.weixin.qq.com/s?__biz=Mzg3NjU3NTkwMQ==&mid=2247505093&idx=1&sn=1d4214e04c2ed6d9381d38953958d057&source=41#wechat_redirect) #八股
 - [(35 封私信) 如何理解《深入理解java虚拟机》第二版中对String.intern()方法的讲解中所举的例子？ - 知乎](https://www.zhihu.com/question/51102308/answer/124441115) #八股
