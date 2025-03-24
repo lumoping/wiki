@@ -1,3 +1,4 @@
+- [15个必知的Mysql索引失效场景，别再踩坑了-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1992920) #八股
 - [四战美团，终拿Offer!大家好，我是老三，2023年是个不平凡的一年，三年疫情结束，经济形势下行，对于我个人而言，也发 - 掘金](https://juejin.cn/post/7316844192604241939)
 - [《图解支付系统设计与实现》精华版-CSDN博客](https://blog.csdn.net/yinmo_sc/article/details/143957256) #八股
 - [库存领域核心能力--库存预占 建设实践 - 墨天轮](https://www.modb.pro/db/1780866276637364224) #八股
