@@ -1,3 +1,4 @@
+- [库存领域核心能力--库存预占 建设实践 - 墨天轮](https://www.modb.pro/db/1780866276637364224) #八股
 - [Go 底层锁：原子操作和sema信号量前言 在Go开发中，我们会经常用到互斥锁，读写锁。而这些锁是基于更底层的锁来实现的 - 掘金](https://juejin.cn/post/7225768154881048613) #八股
 - [什么是 Java 泛型的上下界限定符？ - Java 基础面试题 - 面试鸭 - 程序员求职面试刷题神器](https://www.mianshiya.com/bank/1787463103423897602/question/1780933294636953601) #八股
 - [为了拿捏 Redis 数据结构，我画了 40 张图（完整版） - 小林coding - 博客园](https://www.cnblogs.com/xiaolincoding/p/15628854.html) #八股
