@@ -1,3 +1,4 @@
+- [架构设计面试题 （史上最全、持续更新、吐血推荐） - 疯狂创客圈 - 博客园](https://www.cnblogs.com/crazymakercircle/p/14367907.html) #八股
 - [面试指南](https://javaguide.cn/home.html) #八股
 - [15个必知的Mysql索引失效场景，别再踩坑了-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1992920) #八股
 - [四战美团，终拿Offer!大家好，我是老三，2023年是个不平凡的一年，三年疫情结束，经济形势下行，对于我个人而言，也发 - 掘金](https://juejin.cn/post/7316844192604241939)
